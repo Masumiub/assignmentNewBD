@@ -528,6 +528,7 @@ select{
 }
 
 .btn{
+    font-size: 17px;
     margin-top: 32px;
     color: #ffffff;
     background-color: #006A50;
@@ -568,6 +569,7 @@ select{
 }
 
 .customInput{
+    font-size: 17px;
     width: 455px;
     border: none;
     border-radius: 5px 0px 0px 5px;
@@ -575,6 +577,7 @@ select{
 }
 
 .inputArea button{
+    font-size: 17px;
     color: #ffffff;
     padding: 18px 40px 18px 40px;
     border: none;
